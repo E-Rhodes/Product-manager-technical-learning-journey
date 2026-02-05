@@ -1,6 +1,8 @@
 # Product-manager-technical-learning-journey
 I’m a product manager with 10+ years’ experience. I’m learning CS and AI so I can prototype, validate, and ship faster in the age of AI. I’m documenting everything — wins, failures, and lessons for other PMs who want to do the same.
 
+Fyi - this readme is written in Markdown! which is a a lightweight, easy-to-read, and easy-to-write plain text formatting syntax.
+
 # CS50x
   I shall be starting my journey with the introduction to computer science by working my way through the Havard CS50x course via the edx learning platform. 
 
